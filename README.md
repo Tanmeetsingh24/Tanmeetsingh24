@@ -8,7 +8,7 @@ Sydney, Australia · UNSW Honours graduate with Distinction
 - previously: Digital Accessibility Analyst at TPG Telecom · Embedded Systems Engineer at Sunswift Racing · DAQ & Electronics at FATEH Motorsports
 - thesis: assistive-exoskeleton controls and ESP32-S3 hardware-in-the-loop testing
 - looking for: electronics, embedded, and hardware verification roles
-- reach out: [tanmeet.sachdeva@gmail.com](mailto:tanmeet.sachdeva@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tanmeetss/) · [portfolio](https://github.com/Tanmeetsingh24/portfolio)
+- reach out: [tanmeet.sachdeva@gmail.com](mailto:tanmeet.sachdeva@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tanmeetss/) · [portfolio](https://tanmeetsingh24.github.io)
 
 ---
 
@@ -33,7 +33,7 @@ Most professional firmware and hardware work is private. Public snapshots:
 
 | Project | What it is |
 | --- | --- |
-| [portfolio](https://github.com/Tanmeetsingh24/portfolio) | Personal portfolio — electronics, embedded systems, and hardware verification |
+| [portfolio](https://tanmeetsingh24.github.io) | Personal portfolio — electronics, embedded systems, and hardware verification |
 | [formula-student-daq](https://github.com/Tanmeetsingh24/formula-student-daq) | Arduino Mega/Nano dashboard and central DAQ for Formula Student |
 | [ros-rover-teleop](https://github.com/Tanmeetsingh24/ros-rover-teleop) | ROS teleoperation of a six-motor rover with Arduino control |
 | [flexiforce-logger](https://github.com/Tanmeetsingh24/flexiforce-logger) | FlexiForce sensing on Arduino for strain measurement |
