@@ -8,7 +8,7 @@ Sydney, Australia · UNSW Honours graduate with Distinction
 - previously: Digital Accessibility Analyst at TPG Telecom · Embedded Systems Engineer at Sunswift Racing · DAQ & Electronics at FATEH Motorsports
 - thesis: assistive-exoskeleton controls and ESP32-S3 hardware-in-the-loop testing
 - looking for: electronics, embedded, and hardware verification roles
-- reach out: [tanmeet.sachdeva@gmail.com](mailto:tanmeet.sachdeva@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tanmeetss/) · [portfolio](https://github.com/Tanmeetsingh24/Tanmeet)
+- reach out: [tanmeet.sachdeva@gmail.com](mailto:tanmeet.sachdeva@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tanmeetss/) · [portfolio](https://github.com/Tanmeetsingh24/portfolio)
 
 ---
 
@@ -33,11 +33,11 @@ Most professional firmware and hardware work is private. Public snapshots:
 
 | Project | What it is |
 | --- | --- |
-| [Tanmeet](https://github.com/Tanmeetsingh24/Tanmeet) | Personal portfolio — electronics, embedded systems, and hardware verification |
-| [dashboard_2.0_tanmeet](https://github.com/Tanmeetsingh24/dashboard_2.0_tanmeet) | Arduino Mega/Nano dashboard and central DAQ for Formula Student |
-| [MARS_Rover_Tele-operation](https://github.com/Tanmeetsingh24/MARS_Rover_Tele-operation) | ROS teleoperation of a six-motor rover with Arduino control |
-| [Bone-Strain-Gauge](https://github.com/Tanmeetsingh24/Bone-Strain-Gauge) | FlexiForce sensing on Arduino for strain measurement |
-| [MTRN4231-pick-and-place](https://github.com/Tanmeetsingh24/MTRN4231-pick-and-place) | ROS 2 pick-and-place cell — perception, inventory, and simulated arm |
+| [portfolio](https://github.com/Tanmeetsingh24/portfolio) | Personal portfolio — electronics, embedded systems, and hardware verification |
+| [formula-student-daq](https://github.com/Tanmeetsingh24/formula-student-daq) | Arduino Mega/Nano dashboard and central DAQ for Formula Student |
+| [ros-rover-teleop](https://github.com/Tanmeetsingh24/ros-rover-teleop) | ROS teleoperation of a six-motor rover with Arduino control |
+| [flexiforce-logger](https://github.com/Tanmeetsingh24/flexiforce-logger) | FlexiForce sensing on Arduino for strain measurement |
+| [ros2-pick-and-place](https://github.com/Tanmeetsingh24/ros2-pick-and-place) | ROS 2 pick-and-place cell — perception, inventory, and simulated arm |
 
 ---
 
