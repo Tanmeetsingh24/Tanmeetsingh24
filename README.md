@@ -42,7 +42,5 @@ Most professional firmware and hardware work is private. Public snapshots:
 
 ### Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmeetsingh24&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmeetsingh24&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=Tanmeetsingh24&show_icons=true&theme=transparent&hide_border=true)
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Tanmeetsingh24&layout=compact&theme=transparent&hide_border=true)
