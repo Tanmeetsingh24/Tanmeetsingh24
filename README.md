@@ -1,16 +1,48 @@
-## Hi there 👋
+# Tanmeet Singh Sachdeva
 
-<!--
-**Tanmeetsingh24/Tanmeetsingh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechatronics Engineer** · Electronics, Embedded Systems & Hardware Verification  
+Sydney, Australia · UNSW Honours graduate with Distinction
 
-Here are some ideas to get you started:
+- currently: Electronics Engineer at [Cognitive Advantage](https://www.linkedin.com/in/tanmeetss/) — power electronics, embedded firmware, and hardware verification
+- shipped: deployable power systems, automated harness validation, and BLE battery telemetry as part of a solution delivered to the Royal Australian Air Force
+- previously: Digital Accessibility Analyst at TPG Telecom · Embedded Systems Engineer at Sunswift Racing · DAQ & Electronics at FATEH Motorsports
+- thesis: assistive-exoskeleton controls and ESP32-S3 hardware-in-the-loop testing
+- looking for: electronics, embedded, and hardware verification roles
+- reach out: [tanmeet.sachdeva@gmail.com](mailto:tanmeet.sachdeva@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tanmeetss/) · [portfolio](https://github.com/Tanmeetsingh24/Tanmeet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-111111?style=flat-square)
+![Altium](https://img.shields.io/badge/Altium-A91B30?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+CAN FD · BLE · 5G C-V2X · HIL · oscilloscopes · GNU Radio
+
+---
+
+### Featured
+
+Most professional firmware and hardware work is private. Public snapshots:
+
+| Project | What it is |
+| --- | --- |
+| [Tanmeet](https://github.com/Tanmeetsingh24/Tanmeet) | Personal portfolio — electronics, embedded systems, and hardware verification |
+| [dashboard_2.0_tanmeet](https://github.com/Tanmeetsingh24/dashboard_2.0_tanmeet) | Arduino Mega/Nano dashboard and central DAQ for Formula Student |
+| [MARS_Rover_Tele-operation](https://github.com/Tanmeetsingh24/MARS_Rover_Tele-operation) | ROS teleoperation of a six-motor rover with Arduino control |
+| [Bone-Strain-Gauge](https://github.com/Tanmeetsingh24/Bone-Strain-Gauge) | FlexiForce sensing on Arduino for strain measurement |
+
+---
+
+### Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmeetsingh24&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmeetsingh24&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
