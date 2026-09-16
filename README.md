@@ -37,6 +37,7 @@ Most professional firmware and hardware work is private. Public snapshots:
 | [dashboard_2.0_tanmeet](https://github.com/Tanmeetsingh24/dashboard_2.0_tanmeet) | Arduino Mega/Nano dashboard and central DAQ for Formula Student |
 | [MARS_Rover_Tele-operation](https://github.com/Tanmeetsingh24/MARS_Rover_Tele-operation) | ROS teleoperation of a six-motor rover with Arduino control |
 | [Bone-Strain-Gauge](https://github.com/Tanmeetsingh24/Bone-Strain-Gauge) | FlexiForce sensing on Arduino for strain measurement |
+| [MTRN4231-pick-and-place](https://github.com/Tanmeetsingh24/MTRN4231-pick-and-place) | ROS 2 pick-and-place cell — perception, inventory, and simulated arm |
 
 ---
 
