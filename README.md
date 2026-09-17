@@ -1,6 +1,6 @@
 # Tanmeet Singh Sachdeva
 
-**Mechatronics Engineer** · Electronics, Embedded Systems & Hardware Verification  
+**Mechatronics Engineer** · Graduate Electronics, Embedded Systems & Hardware Verification  
 Sydney, Australia · UNSW Honours graduate with Distinction
 
 - currently: Electronics Engineer at [Cognitive Advantage](https://www.linkedin.com/in/tanmeetss/) — power electronics, embedded firmware, and hardware verification
