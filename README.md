@@ -3,7 +3,7 @@
 **Mechatronics Engineer** · Electronics, Embedded Systems & Hardware Verification  
 Sydney, Australia · UNSW Honours graduate with Distinction
 
-- currently: Electronics Engineer at [Cognitive Advantage](https://www.linkedin.com/in/tanmeetss/) — power electronics, embedded firmware, and hardware verification
+- currently: Electronics Engineer at [Cognitive Advantage](https://www.linkedin.com/company/cognitive-advantage-pty-ltd/) — power electronics, embedded firmware, and hardware verification
 - shipped: deployable power systems, automated harness validation, and BLE battery telemetry as part of a solution delivered to the Royal Australian Air Force
 - previously: Digital Accessibility Analyst at TPG Telecom · Embedded Systems Engineer at Sunswift Racing · DAQ & Electronics at FATEH Motorsports
 - thesis: [control systems for exoskeleton](https://github.com/Tanmeetsingh24/control-systems-for-exoskeleton) — gait FSM, CAN actuator control, ESP32-S3 HIL
