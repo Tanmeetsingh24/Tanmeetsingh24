@@ -3,7 +3,7 @@
 **Mechatronics Engineer** · Electronics, Embedded Systems & Hardware Verification  
 Sydney, Australia · UNSW Honours graduate with Distinction
 
-- currently: Graduate Electronics Engineer at [Cognitive Advantage](https://www.linkedin.com/company/cognitive-advantage-pty-ltd/) — power electronics, embedded firmware, and hardware verification
+- currently: Electronics Engineer at [Cognitive Advantage](https://www.linkedin.com/in/tanmeetss/) — power electronics, embedded firmware, and hardware verification
 - shipped: deployable power systems, automated harness validation, and BLE battery telemetry as part of a solution delivered to the Royal Australian Air Force
 - previously: Digital Accessibility Analyst at TPG Telecom · Embedded Systems Engineer at Sunswift Racing · DAQ & Electronics at FATEH Motorsports
 - thesis: [control systems for exoskeleton](https://github.com/Tanmeetsingh24/control-systems-for-exoskeleton) — gait FSM, CAN actuator control, ESP32-S3 HIL
@@ -42,7 +42,13 @@ Most professional firmware and hardware work is private. Public snapshots:
 
 ---
 
-### Stats
+### Links
 
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=Tanmeetsingh24&show_icons=true&theme=transparent&hide_border=true&commits_year=2026)
-![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Tanmeetsingh24&layout=compact&theme=transparent&hide_border=true)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanmeetsingh24.github.io)
+[![Thesis repo](https://img.shields.io/badge/Thesis_repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanmeetsingh24/control-systems-for-exoskeleton)
+[![Thesis PDF](https://img.shields.io/badge/Thesis_PDF-D24939?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Tanmeetsingh24/control-systems-for-exoskeleton/blob/thesis/docs/ThesisC_Tanmeet_Z5510198.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmeetss/)
+
+Graduate thesis HIL bench — control systems for the EASE assistive exoskeleton:
+
+[![HIL testing rig](https://raw.githubusercontent.com/Tanmeetsingh24/control-systems-for-exoskeleton/thesis/docs/images/hil-testing-rig.jpg)](https://github.com/Tanmeetsingh24/control-systems-for-exoskeleton)
