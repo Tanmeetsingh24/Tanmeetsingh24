@@ -49,6 +49,6 @@ Most professional firmware and hardware work is private. Public snapshots:
 [![Thesis PDF](https://img.shields.io/badge/Thesis_PDF-D24939?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Tanmeetsingh24/control-systems-for-exoskeleton/blob/thesis/docs/ThesisC_Tanmeet_Z5510198.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmeetss/)
 
-Graduate thesis HIL bench — control systems for the EASE assistive exoskeleton:
-
-[![HIL testing rig](https://raw.githubusercontent.com/Tanmeetsingh24/control-systems-for-exoskeleton/thesis/docs/images/hil-testing-rig.jpg)](https://github.com/Tanmeetsingh24/control-systems-for-exoskeleton)
+<p align="center">
+  <img src="assets/electronics-animation.svg" alt="Animated PCB traces, LEDs, and oscilloscope waveform" width="680"/>
+</p>
