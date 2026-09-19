@@ -1,14 +1,14 @@
 # Tanmeet Singh Sachdeva
 
-**Mechatronics Engineer** · Electronics, Embedded Systems & Hardware Verification  
-Sydney, Australia · UNSW Honours graduate with Distinction
+**Mechatronics Engineer**, Electronics, Embedded Systems & Hardware Verification  
+Sydney, Australia, UNSW Honours graduate with Distinction
 
-- currently: Electronics Engineer at [Cognitive Advantage](https://www.linkedin.com/company/cognitive-advantage-pty-ltd/) — power electronics, embedded firmware, and hardware verification
-- shipped: deployable power systems, automated harness validation, and BLE battery telemetry as part of a solution delivered to the Royal Australian Air Force
-- previously: Digital Accessibility Analyst at TPG Telecom · Embedded Systems Engineer at Sunswift Racing · DAQ & Electronics at FATEH Motorsports
-- thesis: [control systems for exoskeleton](https://github.com/Tanmeetsingh24/control-systems-for-exoskeleton) — gait FSM, CAN actuator control, ESP32-S3 HIL
+- currently: Electronics Engineer at [Cognitive Advantage](https://www.linkedin.com/company/cognitive-advantage-pty-ltd/), power electronics, embedded firmware, and hardware verification
+- shipped: deployable power systems, automated harness validation, and BLE battery telemetry for field-deployable products
+- previously: Digital Accessibility Analyst at TPG Telecom, Embedded Systems Engineer at Sunswift Racing, DAQ & Electronics at FATEH Motorsports
+- thesis: [control systems for exoskeleton](https://github.com/Tanmeetsingh24/control-systems-for-exoskeleton), gait FSM, CAN actuator control, ESP32-S3 HIL
 - looking for: electronics, embedded, and hardware verification roles
-- reach out: [tanmeet.sachdeva@gmail.com](mailto:tanmeet.sachdeva@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tanmeetss/) · [portfolio](https://tanmeetsingh24.github.io)
+- reach out: [tanmeet.sachdeva@gmail.com](mailto:tanmeet.sachdeva@gmail.com), [LinkedIn](https://www.linkedin.com/in/tanmeetss/), [portfolio](https://tanmeetsingh24.github.io)
 
 ---
 
@@ -23,7 +23,7 @@ Sydney, Australia · UNSW Honours graduate with Distinction
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-CAN FD · BLE · 5G C-V2X · HIL · oscilloscopes · GNU Radio
+CAN FD, BLE, 5G C-V2X, HIL, oscilloscopes, GNU Radio
 
 ---
 
@@ -33,14 +33,14 @@ Most professional firmware and hardware work is private. Public snapshots:
 
 | Project | What it is |
 | --- | --- |
-| [portfolio](https://tanmeetsingh24.github.io) | Personal portfolio — electronics, embedded systems, and hardware verification |
-| [deployable-power-electronics](https://github.com/Tanmeetsingh24/deployable-power-electronics) | Case study — deployable buck-boost, power selection, capacitor UPS |
-| [automated-wire-harness-tester](https://github.com/Tanmeetsingh24/automated-wire-harness-tester) | Case study — modular wire-harness validation (~90% faster) |
-| [ble-battery-telemetry](https://github.com/Tanmeetsingh24/ble-battery-telemetry) | Case study — BLE protocol recovery, React Native + edge telemetry |
-| [solar-car-can-v2x](https://github.com/Tanmeetsingh24/solar-car-can-v2x) | Case study — Sunswift CAN FD, 5G V2X, AWS/Grafana telemetry |
-| [control-systems-for-exoskeleton](https://github.com/Tanmeetsingh24/control-systems-for-exoskeleton) | Graduate thesis — gait FSM, CubeMars CAN control, ESP32-S3 HIL, MATLAB/Simulink |
+| [portfolio](https://tanmeetsingh24.github.io) | Personal portfolio, electronics, embedded systems, and hardware verification |
+| [deployable-power-electronics](https://github.com/Tanmeetsingh24/deployable-power-electronics) | Case study, deployable buck-boost, power selection, capacitor UPS |
+| [automated-wire-harness-tester](https://github.com/Tanmeetsingh24/automated-wire-harness-tester) | Case study, modular wire-harness validation (~90% faster) |
+| [ble-battery-telemetry](https://github.com/Tanmeetsingh24/ble-battery-telemetry) | Case study, BLE protocol recovery, React Native + edge telemetry |
+| [solar-car-can-v2x](https://github.com/Tanmeetsingh24/solar-car-can-v2x) | Case study, Sunswift CAN FD, 5G V2X, AWS/Grafana telemetry |
+| [control-systems-for-exoskeleton](https://github.com/Tanmeetsingh24/control-systems-for-exoskeleton) | Graduate thesis, gait FSM, CubeMars CAN control, ESP32-S3 HIL, MATLAB/Simulink |
 | [formula-student-daq](https://github.com/Tanmeetsingh24/formula-student-daq) | Arduino Mega/Nano dashboard and central DAQ for Formula Student |
-| [ros2-pick-and-place](https://github.com/Tanmeetsingh24/ros2-pick-and-place) | ROS 2 pick-and-place cell — perception, inventory, and simulated arm |
+| [ros2-pick-and-place](https://github.com/Tanmeetsingh24/ros2-pick-and-place) | ROS 2 pick-and-place cell, perception, inventory, and simulated arm |
 | [ros-rover-teleop](https://github.com/Tanmeetsingh24/ros-rover-teleop) | ROS teleoperation of a six-motor rover with Arduino control |
 | [flexiforce-logger](https://github.com/Tanmeetsingh24/flexiforce-logger) | FlexiForce sensing on Arduino for strain measurement |
 
