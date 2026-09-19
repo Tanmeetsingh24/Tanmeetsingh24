@@ -34,11 +34,15 @@ Most professional firmware and hardware work is private. Public snapshots:
 | Project | What it is |
 | --- | --- |
 | [portfolio](https://tanmeetsingh24.github.io) | Personal portfolio — electronics, embedded systems, and hardware verification |
+| [deployable-power-electronics](https://github.com/Tanmeetsingh24/deployable-power-electronics) | Case study — deployable buck-boost, power selection, capacitor UPS |
+| [automated-wire-harness-tester](https://github.com/Tanmeetsingh24/automated-wire-harness-tester) | Case study — modular wire-harness validation (~90% faster) |
+| [ble-battery-telemetry](https://github.com/Tanmeetsingh24/ble-battery-telemetry) | Case study — BLE protocol recovery, React Native + edge telemetry |
+| [solar-car-can-v2x](https://github.com/Tanmeetsingh24/solar-car-can-v2x) | Case study — Sunswift CAN FD, 5G V2X, AWS/Grafana telemetry |
 | [control-systems-for-exoskeleton](https://github.com/Tanmeetsingh24/control-systems-for-exoskeleton) | Graduate thesis — gait FSM, CubeMars CAN control, ESP32-S3 HIL, MATLAB/Simulink |
 | [formula-student-daq](https://github.com/Tanmeetsingh24/formula-student-daq) | Arduino Mega/Nano dashboard and central DAQ for Formula Student |
+| [ros2-pick-and-place](https://github.com/Tanmeetsingh24/ros2-pick-and-place) | ROS 2 pick-and-place cell — perception, inventory, and simulated arm |
 | [ros-rover-teleop](https://github.com/Tanmeetsingh24/ros-rover-teleop) | ROS teleoperation of a six-motor rover with Arduino control |
 | [flexiforce-logger](https://github.com/Tanmeetsingh24/flexiforce-logger) | FlexiForce sensing on Arduino for strain measurement |
-| [ros2-pick-and-place](https://github.com/Tanmeetsingh24/ros2-pick-and-place) | ROS 2 pick-and-place cell — perception, inventory, and simulated arm |
 
 ---
 
